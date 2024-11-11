@@ -11,3 +11,4 @@ we have different types of list in python as:
 9. sort(): Sorts the list in ascending order
 10. reverse(): Reverses the order of items in the list.
 11. copy(): Returns a shallow copy of the list.
+
